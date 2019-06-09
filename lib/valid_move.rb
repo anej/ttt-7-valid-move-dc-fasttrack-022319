@@ -1,5 +1,4 @@
-board = [" ", " ", " ", "X", " ", " ", " ", " ", " "]
-index = 11
+
 
 # code your #valid_move? method here
 def valid_move?(board, index)
